@@ -1,4 +1,8 @@
-## Hi there 👋
+# VitorraLux Studio
+
+VitorraLux Studio is a premium website design studio built for modern small businesses and growing brands. This website presents the studio’s services, pricing packages, portfolio concepts, website review offer, project request form, and client portal prototype.
+
+The design focuses on a dark luxury style with glass effects, cyan and purple gradients, responsive layouts, mobile navigation, and a clean client-ready experience.
 
 <!--
 **VitorraLux/VitorraLux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
